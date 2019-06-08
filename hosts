@@ -1,2 +1,3 @@
 [debian]
-debian01.home.tonykerns.com
+# debian01.home.tonykerns.com
+debian01.home.tonykerns.com ansible_python_interpreter=/usr/bin/python3
