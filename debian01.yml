@@ -1,0 +1,5 @@
+---
+- name: Run debian01 role on debian hosts
+  hosts: debian
+  roles:
+    - debian01
